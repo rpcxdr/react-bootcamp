@@ -1,3 +1,16 @@
+
+Install your dependencies
+```
+$ npm install
+```
+
+Run brunch (watch and reload)
+```
+$ npm start
+```
+
+Open your browser, and navigate to the URL reported when you started brunch.
+
 * Topics
   * Components and rendering
     * Lessons
