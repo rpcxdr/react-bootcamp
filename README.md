@@ -1,23 +1,36 @@
+
+Install your dependencies
+```
+$ npm install
+```
+
+Run brunch (watch and reload)
+```
+$ npm start
+```
+
+Open your browser, and navigate to the URL reported when you started brunch.
+
 * Topics
   * Components and rendering
-  * Lessons
-    * Components
-    * Props
-    * Conditional rendering
-    * Styling
-    * Composition
-  * Assignment
-    * Render a list of items based on a snippet of Json
+    * Lessons
+      * Components
+      * Props
+      * Conditional rendering
+      * Styling
+      * Composition
+    * Assignment
+      * Render a list of items based on a snippet of Json
   * Redux and state
     * Lessons
       * Store
       * Reducers
       * Container vs presentational
       * Mapping store and dispatch to props
-  * Assignment
-    * Create the following reducers
-    * Generate random user
-    * Delete user
+    * Assignment
+      * Create the following reducers
+      * Generate random user
+      * Delete user
   * Sagas and networking
     * Lessons
       * takeLatest
